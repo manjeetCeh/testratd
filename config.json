@@ -1,0 +1,7 @@
+{
+  "telegram": {
+    "token": "ENTER YOUR BOT TOKEN",
+    "chatId": "ENTER YOUR CHAT ID"
+  },
+  "address": "https://www.google.com"
+}
